@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5318D507-06A2-48FB-A2C7-274AC7D90D05}|JobsApplication">
+  <MonoDevelop.Ide.ItemProperties.JobsApplication PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobsApplication/ClientApp/src/App.js">
+    <Files>
+      <File FileName="JobsApplication/Controllers/JobsController.cs" Line="26" Column="1" />
+      <File FileName="JobsApplication/Startup.cs" Line="26" Column="116" />
+      <File FileName="JobsApplication/Services/JobsServices.cs" Line="35" Column="1" />
+      <File FileName="JobsApplication/JobEntity.cs" Line="6" Column="22" />
+      <File FileName="JobsApplication/ClientApp/src/App.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JobsApplication" expanded="True">
+            <Node name="JobsApplication" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                  <Node name="App.js" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
