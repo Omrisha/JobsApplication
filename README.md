@@ -13,6 +13,8 @@
     - Create database with the name tempdb
 - SQL Server with Docker:
     - Run the command `docker run -d -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Password!' -e 'MSSQL_PID_Express' -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest`
+- Run the /JobsApplication/CreateTestJobTitles.sql file to create table with Data
+- Run the /JobsApplication/CreateTestJobs.sql file to create table with Data
 - Run the command `git clone https://github.com/Omrisha/JobsApplication.git`
 - Open the SLN file in Visual Studio/Rider/Visual Studio Code
 - Run the project (or  `dotnet run` if in VSCode).  
